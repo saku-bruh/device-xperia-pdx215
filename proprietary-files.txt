@@ -1,4 +1,4 @@
-# Stock package version: Sony/pdx215/pdx215:11/61.0.A.23.20/059001A000048503521489921:user/release-keys
+# Stock package version: Sony/pdx215/pdx215:11/RKQ1.211222.001/1:user/release-keys
 
 # ANT+
 system_ext/lib/com.qualcomm.qti.ant@1.0.so
